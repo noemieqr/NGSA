@@ -1,7 +1,11 @@
-# NGSA
-This repository includes all coursework for Network Science Analytics
-# Description 
-Networks (or graphs) have become ubiquitous as data from diverse disciplines can naturally be mapped to graph structures. Social networks, such as academic collaboration networks and interaction networks over online social networking applications are used to represent and model the social ties among individuals. Information networks, including the hyperlink structure of the Web and blog networks, have become crucial mediums for information dissemination, offering an effective way to represent content and navigate through it. A plethora of technological networks, including the Internet, power grids, telephone networks and road networks are an important part of everyday life. The problem of extracting meaningful information from large scale graph data in an efficient and effective way has become crucial and challenging with several important applications and towards this end, graph mining and analysis methods constitute prominent tools. The goal of this course is to present recent and state-of-the-art methods and algorithms for analyzing, mining and learning large-scale graph data, as well as their practical applications in various domains (e.g., the web, social networks, recommender systems).
+# Project - Mexico drug traffic activities
+This repository includes the project proposal, final project report and the Python code for the course Network Science Analytics.
 
-# Course Website
-http://fragkiskos.me/teaching/NGSA-S18/
+The title of the project is: Mexico drug traffic activities | Knowing Where and How Criminal Organizations Operate Using Web Content.
+
+# Dataset
+The dataset is a temporal bipartite matrix which relates the association between municipalities of Mexico and drug traffic activities in this country going from 1990 to 2010. This data is extracted from Google News articles.
+
+In this network, an edge tells that a municipality and a drug organization were both mentioned a significant number of times in one year in a news article.
+
+In total the network is composed of 2467 nodes and 6228 edges concerning the nine most important Drug Trafficking Organizations (DTO).
