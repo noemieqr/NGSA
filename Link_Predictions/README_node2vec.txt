@@ -1,0 +1,1 @@
+To run node2vec please use the following command (where nodes.txt is the file containing the nodes saved from the 95% of the graph): python src/main.py --input nodes.txt --output emb/train_nodes_emb.txt
